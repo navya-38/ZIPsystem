@@ -1,0 +1,20 @@
+New solution to correctly address ACW-9 Change in Insured Name
+
+
+Description
+
+A new solution is required to correctly handle ACW- 9 (Change in Insured Name) in eZDocs.
+
+The previous implementation caused compatibility issues with manually coded renewals. A permanent solution is needed that supports both manually entered renewals and uploaded program entries. 
+
+Acceptance Criteria:
+
+Insured name changes are correctly reflected in eZDocs.
+
+Renewals link correctly to the updated insured name.
+
+Solution works for both manually coded and uploaded program entries. 
+
+No impact to existing active policies. 
+
+Solution is validated in lower environment before production deployment. 
