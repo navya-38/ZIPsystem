@@ -1,1 +1,3 @@
 Error report to be sent when no uploads from ODS to ZIP have been received.
+
+when there is no job runs are run in daily basis - user should receive a report with no file name 

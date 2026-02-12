@@ -7,4 +7,3 @@
 7.select Accident and Sickness Module for the added location
 8.Add the covergaes under Accident and Sickness module
 9.Quote and Bind to generate the policy without any tax for OOC location
-
